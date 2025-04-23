@@ -1,0 +1,7 @@
+boto3
+psycopg2
+pandas
+dotenv
+apache-airflow
+cryptography.fernet
+apache-airflow-providers-amazon
